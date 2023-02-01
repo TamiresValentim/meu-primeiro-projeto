@@ -7,3 +7,6 @@
 
 <h2>ESTA FOI O RESULTADO DO PROJETO<h2>
 <img src="https://raw.githubusercontent.com/TamiresValentim/meu-primeiro-projeto/06b1d4e543914d94adf1c71451c63664ee53af1e/images/projeto-staburcks1.png" alt="esta primeira imagem do projeto">
+
+<h2>ESTA CORES DO PROJETO DO EFEITOS QUE FOI FEITO<h2>
+<img src="README.md"
