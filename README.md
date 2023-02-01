@@ -12,3 +12,4 @@
 <img src="https://raw.githubusercontent.com/TamiresValentim/meu-primeiro-projeto/06b1d4e543914d94adf1c71451c63664ee53af1e/images/projeto-starbucks2.png" alt="esta é segunda imagem do projeto">
   
 <h2>ESTA ULTIMA COR DO EFEITO JAVASCRIPT<h2>
+<img src="https://github.com/TamiresValentim/meu-primeiro-projeto/blob/main/images/projeto-staburcks3.png?raw=true" alt="esta terceira imagem do projeto">
