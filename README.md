@@ -9,4 +9,6 @@
 <img src="https://raw.githubusercontent.com/TamiresValentim/meu-primeiro-projeto/06b1d4e543914d94adf1c71451c63664ee53af1e/images/projeto-staburcks1.png" alt="esta primeira imagem do projeto">
 
 <h2>ESTA CORES DO PROJETO DO EFEITOS QUE FOI FEITO<h2>
-<img src="README.md"
+<img src="https://raw.githubusercontent.com/TamiresValentim/meu-primeiro-projeto/06b1d4e543914d94adf1c71451c63664ee53af1e/images/projeto-starbucks2.png" alt="esta é segunda imagem do projeto">
+  
+<h2>ESTA ULTIMA COR DO EFEITO JAVASCRIPT<h2>
